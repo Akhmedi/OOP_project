@@ -8,37 +8,69 @@ Main Functionalities:
 -Student
 
 -Register for courses
+
 -View transcript and GPA
+
 -Track academic performance
+
 -Assign research supervisor
+
 -Teacher
+
 -Manage courses
+
 -Assign grades
+
 -View enrolled students
+
 -Participate in research activities
+
 -Manager
+
 -Approve registrations
+
 -Publish university news
+
 -Manage schedules
+
 -View rankings and statistics
+
 -Admin
+
 -Add, remove, and update users
+
 -Manage departments
+
 -View logs and system activity
+
 -Research Subsystem
+
 -Research projects
+
 -Research papers
+
 -Researcher profiles
+
 -Join requests for projects
+
 -h-index calculation
+
 -OOP Principles Used
+
 -Inheritance
+
 -Encapsulation
+
 -Polymorphism
+
 -Abstraction
+
 -Design Patterns
+
 -Singleton
+
 -DataStorage manages serialization, deserialization, and system-wide data access
+
 
 Observer
 Managers publish news notifications to subscribed users
