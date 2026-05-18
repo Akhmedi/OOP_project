@@ -4,7 +4,9 @@ Overview
 University Management System is a console-based Java application developed for the Object-Oriented Programming course at KBTU. The project simulates the internal university ecosystem and supports multiple user roles including students, teachers, managers, administrators, and researchers.
 The system demonstrates practical implementation of Object-Oriented Programming principles, custom exception handling, serialization, and software design patterns.
 Main Functionalities:
+
 -Student
+
 -Register for courses
 -View transcript and GPA
 -Track academic performance
